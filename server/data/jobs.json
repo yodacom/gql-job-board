@@ -16,5 +16,17 @@
     "companyId": "SJV0-wdOM",
     "title": "Full-Stack Developer",
     "description": "We are looking for a Full-Stack Developer familiar with Node.js, Express, and React."
+  },
+  {
+    "id": "r14IKjHxQ",
+    "companyId": "SJV-wdOM",
+    "title": "Devops engineer",
+    "description": "need engineer to take care of host fallovers"
+  },
+  {
+    "id": "Syt_5iBlm",
+    "companyId": "SJV0-wdOM",
+    "title": "anoother post",
+    "description": "post for markinging back end"
   }
 ]
